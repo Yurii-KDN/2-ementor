@@ -1,2 +1,2 @@
 # 2-ementor
-My trainiтп
+My training
